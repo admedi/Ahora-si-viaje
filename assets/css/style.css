@@ -1,0 +1,59 @@
+body{
+    margin: 75pt;
+}
+
+
+#quienes-somos hr{
+    height: 2px;
+}
+
+#destacados div hr{
+    height: 2px;
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.header {
+    background-size: cover;
+    min-height: 100vh;
+  }
+
+ .header .navbar-brand {
+    background-color: transparent !important;
+  }
+
+#contacto div hr{
+    height: 3px;
+
+}
+
+#contacto div button{
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+
+}
+
+.card-body{
+    color:cornsilk;
+    background-color: cadetblue;
+}
+
+#footer{
+    background-color: cadetblue;
+    padding-top: 10px;
+}
+
+footer{
+    font-size:xx-large;
+}
